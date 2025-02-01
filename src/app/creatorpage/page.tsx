@@ -25,7 +25,7 @@ function CreatorPage() {
                 About the Creator
               </h1>
               <p className="mt-4 text-gray-600 leading-relaxed text-sm sm:text-base">
-  Hi, I&apos;m <span className="font-semibold">Zakia Bashir</span>, a passionate developer driven by the endless possibilities in 
+  Hi, I&apos;m <span className="font-semibold">Naila Rao</span>, a passionate developer driven by the endless possibilities in 
   <span className="font-semibold">Generative AI</span>, the <span className="font-semibold">Metaverse</span>, and <span className="font-semibold">Cloud Technologies</span>. 
   My expertise lies in crafting dynamic and user-centric web solutions, always pushing the boundaries of innovation.
 </p>
@@ -46,7 +46,7 @@ function CreatorPage() {
             <div className="mt-6 flex justify-center space-x-8 text-center text-2xl text-[#1D3178]">
               {/* Gmail */}
               <a
-                href="mailto:nshafeys0@gmail.com"
+                href="nailaamir773@gmail.com"
                 className="hover:text-[#FB2E86] transition duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -56,7 +56,7 @@ function CreatorPage() {
 
               {/* Instagram */}
               <a
-                href="https://www.instagram.com"
+                href="#"
                 className="hover:text-[#FB2E86] transition duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -66,7 +66,7 @@ function CreatorPage() {
 
               {/* GitHub */}
               <a
-                href="https://github.com/zakiabashir"
+                href="#"
                 className="hover:text-[#FB2E86] transition duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -76,7 +76,7 @@ function CreatorPage() {
 
               {/* LinkedIn */}
               <a
-                href="https://www.linkedin.com/in/zakia-bashir-367b41254/"
+                href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
                 className="hover:text-[#FB2E86] transition duration-300"
                 target="_blank"
                 rel="noopener noreferrer"
